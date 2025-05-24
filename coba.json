@@ -1,0 +1,32 @@
+[
+{
+    "Nama" : "Ikhwanul Rizki",
+    "NIM" : "2217020148",
+    "Matkul" : "Integrasi Aplikasi Perusahaan",
+    "Umur" : 21,
+    "Lulus" : false,
+    "Hobby" : [
+        "Badminton", 
+        "Memancing"
+    ],
+    "pembimbing" : {
+        "pembimbing1": "Test1",
+        "pembimbing2": "Test2"
+    }
+},
+{
+    "Nama" : "Ikhwanul Rizki",
+    "NIM" : "2217020148",
+    "Matkul" : "Integrasi Aplikasi Perusahaan",
+    "Umur" : 21,
+    "Lulus" : false,
+    "Hobby" : [
+        "Badminton", 
+        "Memancing"
+    ],
+    "pembimbing" : {
+        "pembimbing1": "Test1",
+        "pembimbing2": "Test2"
+    }
+}
+]
